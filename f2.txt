@@ -3,11 +3,8 @@ asdfghjkljsdf
 asdfghjkl;lkjhgfdfghjklkjhgfds
 
 asdfghjklkjhgfdswertyuijh
-<<<<<<< HEAD
+
 
 asdfghjytrewertyui
 
 asdfghjklkjhgfdsfghj
-=======
->>>>>>> parent of 656a2bd (Update f2.txt)
-
